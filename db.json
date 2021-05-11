@@ -1,13 +1,8 @@
 {
-	"posts":[
-		{
-			"userId":1,
+	"posts": {
 			"id":1,
+			"userId":1,
 			"title":"Fuck their Mom",
 			"body":"Hummmm, do those kid really dream about bonning their own mother? Talking about crazy barats!"
 		}
-	],
-	"profile":{
-		"name":"typicode"
-	}
 }
